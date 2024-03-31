@@ -18,5 +18,8 @@ Techniques used:
 - Random Forest
 - Logistic Regression
 - Decision Trees
+- Comparative Analysis (Kmeans clustering, Statistical Test)
+- Multiple Regression Modeling
+  
 
 
