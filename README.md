@@ -9,14 +9,14 @@ The report of our findings are as followed:
 The dataset is provided by [Inside Airbnb[(http://insideairbnb.com/get-the-data/) and the data time period used for the project is 9/3/23. The purpose of this project was to conduct exploratory analysis, predictive modeling and machine learning technique on Airbnb in the Los Angeles area. 
 
 Techniques used:
--Tableau (data visualization)
--Python
--Sentiment Analysis
--Feature Selection 
- -XGBoost Classifier
- -Backward Elimination
--Random Forest
--Logistic Regression
--Decision Trees
+- Tableau (data visualization)
+- Python
+- Sentiment Analysis
+- Feature Selection 
+ - XGBoost Classifier
+ - Backward Elimination
+- Random Forest
+- Logistic Regression
+- Decision Trees
 
 
